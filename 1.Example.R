@@ -24,7 +24,7 @@ data.A0$A <- 0
 
 ## ATE
 
-tau <- 1; tau1 <- 1
+tau <- 1; tau1 <- 1 #E[Y(1)-Y(0)]; E[Y(10)]
 
 ## Split Sample
 
